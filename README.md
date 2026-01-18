@@ -115,7 +115,7 @@ After **6 successful binary number inputs**, the player will have entered the co
   <em>Figure 1: Example gameplay from volunteer game testers.</em>
 </p>
 
-<h2 align="center">📸 Game States & Hardware</h2>
+
 
 <table align="center">
   <tr>
@@ -127,3 +127,4 @@ After **6 successful binary number inputs**, the player will have entered the co
     <td align="center"><img src="misc\Countdown_game_over.gif" width="100%" alt="Game Over"></td>
   </tr>
 </table>
+
