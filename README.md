@@ -18,7 +18,7 @@ However, the following is included:
 * Hand-drawn graphic assets (Background and sprite sheets in .bmp)
 * Audio files (in **.wav** and **.mif**)
 
-This allows users to download and play the game without exposing the code or logic to future students.
+This allows users to download and play the game (as well as view the assets) without exposing the code or logic to future students.
 
 ---
 
@@ -127,4 +127,5 @@ After **6 successful binary number inputs**, the player will have entered the co
     <td align="center"><img src="misc\Countdown_game_over.gif" width="100%" alt="Game Over"></td>
   </tr>
 </table>
+
 
