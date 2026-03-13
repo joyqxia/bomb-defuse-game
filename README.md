@@ -1,5 +1,5 @@
 # FPGA Bomb Defuse Game Project (Verilog) 💥💣
- 
+     <td align="center"><img src="misc\game_snapshot.bmp" width="100%" alt="Static Snapshot"></td>
 ## Overview
 This is a custom hardware-based "bomb defuse" game designed to run on an FPGA development board. The game logic is written entirely in Verilog, and it utilizes a VGA interface to display the game graphics on a standard monitor.
 
@@ -127,5 +127,6 @@ After **6 successful binary number inputs**, the player will have entered the co
     <td align="center"><img src="misc\Countdown_game_over.gif" width="100%" alt="Game Over"></td>
   </tr>
 </table>
+
 
 
